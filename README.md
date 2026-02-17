@@ -1,7 +1,7 @@
 # Craftable Uncraftable Objects [CUO]
 Minecraft Project Allow You to Craft any Object You Can't Craft It In Your Vanilla Minecraft World.
 
-This GitHub Project was Created To Public **Craftable Uncraftable Objects [CUO]** Minecraft Mod Source Code
+This GitHub Project was Created To Publish **Craftable Uncraftable Objects [CUO]** Minecraft Project Source Code like Project Mod or Description.
 
 
 **🔗 Links**:
