@@ -8,35 +8,35 @@
 <p>&nbsp;</p>
 <p>📜&nbsp;<strong>Recipes</strong></p>
 <p>&nbsp;</p>
-<p><span style="text-decoration: underline;"><strong>Enchanted Golden Apple</strong></span></p>
+<p><strong>Enchanted Golden Apple</strong></p>
 <p><img src="https://media.forgecdn.net/attachments/description/1408224/description_7bad9fb3-b050-485a-9f81-641651091f1b.png" alt=""></p>
 <hr>
-<p><span style="text-decoration: underline;"><strong>Totem of Undying</strong></span></p>
+<p><strong>Totem of Undying</strong></p>
 <p><img src="https://media.forgecdn.net/attachments/description/null/description_e64a5777-7cba-459d-bed9-9e2462cbb419.png" alt="" width="482" height="271"></p>
 <hr>
-<p><span style="text-decoration: underline;"><strong>Elytra</strong></span></p>
+<p><strong>Elytra</strong></p>
 <p><img src="https://media.forgecdn.net/attachments/description/null/description_ee97da58-afe9-4e65-ac01-714ae563f9db.png" alt="" width="480" height="268"></p>
 <hr>
-<p><span style="text-decoration: underline;"><strong>Trident (1.21 or newer)</strong></span></p>
+<p><strong>Trident (1.21 or newer)</strong></p>
 <p><img src="https://media.forgecdn.net/attachments/description/null/description_e0073110-9d9c-41b7-acc5-2c566c3ae258.png" alt="" width="484" height="270"></p>
-<p><span style="text-decoration: underline;"><strong>Trident (1.20.6 or older)</strong></span></p>
+<p><strong>Trident (1.20.6 or older)</strong></p>
 <p><span style="text-decoration: underline;"><strong><img src="https://media.forgecdn.net/attachments/description/1408224/description_440951ae-d3f3-489d-8972-50cb1a9b83fd.png" alt=""></strong></span></p>
 <hr>
-<p><span style="text-decoration: underline;"><strong>Chainmail Armors (1.16 or newer)</strong></span></p>
+<p><strong>Chainmail Armors (1.16 or newer)</strong></p>
 <p>&nbsp;</p>
 <p>Chainmail Helmet</p>
-<p><img src="https://media.forgecdn.net/attachments/description/1408224/description_bee28d4a-5883-4e22-8445-cbd84970ce14.png" alt="" width="480" height="265"></p>
+<p><img src="https://media.forgecdn.net/attachments/description/1408224/description_bcc1c405-01ee-478b-bf86-a1828fbce7fd.png" alt="" width="487" height="266"></p>
 <p>Chainmail Chestplate</p>
-<p><img src="https://media.forgecdn.net/attachments/description/1408224/description_35e912c0-9468-4911-bd94-654946af3b42.png" alt=""></p>
+<p><img src="https://media.forgecdn.net/attachments/description/1408224/description_288fc1e1-0094-44e6-87d4-4adb93289092.png" alt=""></p>
 <p>Chainmail Leggings</p>
-<p><img src="https://media.forgecdn.net/attachments/description/1408224/description_40f1e208-9544-4ae3-a4f3-d42378c6d226.png" alt=""></p>
+<p><img src="https://media.forgecdn.net/attachments/description/1408224/description_045b453a-5471-4b37-8483-05d0a64a12ad.png" alt="" width="482" height="267"></p>
 <p>Chainmail Boots</p>
-<p><img src="https://media.forgecdn.net/attachments/description/1408224/description_80d33e9e-0e17-4360-8ea4-eb8c6bb2d932.png" alt="" width="480" height="265"></p>
+<p><img src="https://media.forgecdn.net/attachments/description/1408224/description_d190dd0f-adec-4a31-bc55-c6d2768cb5a0.png" alt="" width="480" height="268"></p>
 <hr>
-<p><span style="text-decoration: underline;"><strong>Saddle (1.21.5 or older)</strong></span></p>
+<p><strong>Saddle (1.21.5 or older)</strong></p>
 <p><img src="https://media.forgecdn.net/attachments/description/null/description_8a75aeb4-c3cc-4e22-87b2-71cfaff0bb1c.png" alt="" width="480" height="266"></p>
 <hr>
-<p><span style="text-decoration: underline;"><strong>Horse Armors</strong></span></p>
+<p><strong>Horse Armors</strong></p>
 <p>&nbsp;</p>
 <p><strong>Diamond:</strong></p>
 <p><img src="https://media.forgecdn.net/attachments/description/1408224/description_fa9e779d-b2f1-4f36-997a-899f47a84575.png" alt="" width="482" height="266"></p>
@@ -50,13 +50,11 @@
 <p><strong><img src="https://media.forgecdn.net/attachments/description/1408224/description_062ea182-8065-4ec8-b591-3357c16af0a7.png" alt="" width="484" height="271"></strong></p>
 <hr>
 <p><strong>Crying Obsidian (1.17 or newer)</strong></p>
-<p><strong><img src="https://media.forgecdn.net/attachments/description/1408224/description_7e15f4de-7baa-4694-8f55-1a68042fd0bb.png" alt="" width="475" height="265"></strong></p>
+<p><strong><img src="https://media.forgecdn.net/attachments/description/1408224/description_e5fe63aa-27c3-485a-91cf-f89d97f1bfe6.png" alt="" width="484" height="269"></strong></p>
 <hr>
-<p>&nbsp;</p>
 <p><strong>Experience Bottle</strong></p>
 <p><strong><img src="https://media.forgecdn.net/attachments/description/1408224/description_6e9d4de7-5b41-4caf-a617-f28d39ba1f4b.png" alt=""></strong></p>
 <hr>
-<p>&nbsp;</p>
 <p><strong>Name Tag (1.21.11 or older)</strong></p>
 <p><strong><img src="https://media.forgecdn.net/attachments/description/1408224/description_b5c48a24-9271-40ab-bd59-6c51f9f86ec3.png" alt="" width="475" height="267"></strong></p>
 <hr>
@@ -64,8 +62,40 @@
 <p><strong><img src="https://media.forgecdn.net/attachments/description/1408224/description_b66f1e61-fe12-47a4-9528-8ace6735901a.png" alt=""></strong></p>
 <hr>
 <p><strong>Debug Stick</strong></p>
-<p><strong><img src="https://media.forgecdn.net/attachments/description/1408224/description_e5602731-7164-44b3-93d6-b53f41ecbdf4.png" alt="" width="478" height="270"></strong></p>
+<p><strong><img src="https://media.forgecdn.net/attachments/description/1408224/description_98268477-4f83-4297-a02c-a6ea1de67867.png" alt="" width="481" height="265"></strong></p>
 <p>Recommended to Use <a href="https://modrinth.com/datapack/tweaker-stick" target="_blank" rel="nofollow noopener">Tweaker Stick Data Pack</a> to able to use it with full functionality or instead use Creative mode to able to use it until I add an update that fix this problem.<strong><br></strong></p>
+<hr>
+<p><strong>Bell</strong></p>
+<p><strong><img src="https://media.forgecdn.net/attachments/description/1408224/description_911aa285-ec37-40b0-8673-079443ab0fbe.png" alt="" width="481" height="268"></strong></p>
+<hr>
+<p><strong>Nautilus Armors (1.21.11 or newer)</strong></p>
+<p>&nbsp;</p>
+<p><strong>Diamond:</strong></p>
+<p><img src="https://media.forgecdn.net/attachments/description/1408224/description_29ced50f-2953-423e-92ab-3bc7dd03a7e5.png" alt="" width="482" height="267"></p>
+<p>&nbsp;</p>
+<p><strong>Golden:</strong></p>
+<p><strong><img src="https://media.forgecdn.net/attachments/description/1408224/description_3080e439-4f96-4a0e-9e95-45c47eb40281.png" alt="" width="481" height="268"></strong></p>
+<p>&nbsp;</p>
+<p><strong>Iron:</strong></p>
+<p><strong><img src="https://media.forgecdn.net/attachments/description/1408224/description_75ef1fd1-9df0-462c-a1e3-6fe40b4557b1.png" alt="" width="490" height="266"></strong></p>
+<p>&nbsp;</p>
+<p><strong>Copper:</strong></p>
+<p><strong><img src="https://media.forgecdn.net/attachments/description/1408224/description_70d59d18-2dc9-42a9-8b9b-438b69566261.png" alt="" width="481" height="266"></strong></p>
+<hr>
+<p><strong>Gunpowder (Coal)</strong></p>
+<p><strong><img src="https://media.forgecdn.net/attachments/description/1408224/description_6dfb8e35-5df8-439a-a395-54dd81283c86.png" alt="" width="374" height="269"></strong></p>
+<p>&nbsp;</p>
+<p><strong>Gunpowder (Charcoal)</strong></p>
+<p><strong><img src="https://media.forgecdn.net/attachments/description/1408224/description_40306588-7c5e-415d-b2c8-51a1fcfe5408.png" alt="" width="375" height="270"></strong></p>
+<hr>
+<p><strong>Leather</strong></p>
+<p><strong><img src="https://media.forgecdn.net/attachments/description/1408224/description_a6b8e2b5-f78b-403f-b2fa-9f0aba6adc56.png" alt="" width="372" height="275"></strong></p>
+<hr>
+<p><strong>Nautilus Shell</strong></p>
+<p><img src="https://media.forgecdn.net/attachments/description/1408224/description_13757987-c727-4766-b88d-2708f3b696ed.png" alt="" width="482" height="268"></p>
+<hr>
+<p><strong>Recycling Packed Ice</strong></p>
+<p><strong><img src="https://media.forgecdn.net/attachments/description/1408224/description_02f15699-1631-427d-a47f-f0f8fbf7e7aa.png" alt="" width="485" height="268"></strong></p>
 <p>====================================================</p>
 <p>&nbsp;</p>
 <p><strong>🏆 Advancements</strong></p>
