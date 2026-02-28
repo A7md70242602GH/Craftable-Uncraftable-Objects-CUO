@@ -33,7 +33,7 @@
 <p>Chainmail Boots</p>
 <p><img src="https://media.forgecdn.net/attachments/description/1408224/description_d190dd0f-adec-4a31-bc55-c6d2768cb5a0.png" alt="" width="480" height="268"></p>
 <hr>
-<p><strong>Saddle (1.21.5 or older)</strong></p>
+<p><strong>Saddle</strong></p>
 <p><img src="https://media.forgecdn.net/attachments/description/null/description_8a75aeb4-c3cc-4e22-87b2-71cfaff0bb1c.png" alt="" width="480" height="266"></p>
 <hr>
 <p><strong>Horse Armors</strong></p>
